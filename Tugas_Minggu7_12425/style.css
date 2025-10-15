@@ -1,0 +1,15 @@
+h1{
+    color: #D4AF37;
+    text-align: center;
+}
+
+body{
+    background: linear-gradient(to bottom, #0F2027, #2C5364);
+    font-family: 'playfair display', serif;
+    color: #F8F8F8;
+    border: 5px solid #D4AF37;
+    border-style: groove;
+    border-style: double;
+    border-radius: 15px;
+}
+    
